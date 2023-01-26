@@ -1,0 +1,37 @@
+OBSERVACION:
+el puerto de la base esta modificado, se esta utilizando el puerto 3307
+
+INSERTS:
+{
+		"nombre": "Laura",
+		"apellido": "Garcia",
+		"telefono": "0147852369",
+		"direccion": "Cuenca",
+		"fecha_nacimiento": "2000-08-28",
+		"observacion": "Admin",
+		"dias_trabajo": 100,
+		"sueldo": 9500.0
+	}
+	
+	
+{
+		"nombre": "Mateo",
+		"apellido": "Perez",
+		"telefono": "0985412367",
+		"direccion": "Cuenca",
+		"fecha_nacimiento": "2000-08-28",
+		"observacion": "Ventas",
+		"dias_trabajo": 500,
+		"sueldo": 980.0
+	}
+	
+{
+		"nombre": "Silvia",
+		"apellido": "Guzman",
+		"telefono": "0789654123",
+		"direccion": "Cuenca",
+		"fecha_nacimiento": "2000-08-28",
+		"observacion": "Conta",
+		"dias_trabajo": 150,
+		"sueldo": 7500.0
+	}
