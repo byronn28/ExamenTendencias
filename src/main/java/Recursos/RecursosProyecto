@@ -2,36 +2,15 @@ OBSERVACION:
 el puerto de la base esta modificado, se esta utilizando el puerto 3307
 
 INSERTS:
-{
-		"nombre": "Laura",
-		"apellido": "Garcia",
-		"telefono": "0147852369",
-		"direccion": "Cuenca",
-		"fecha_nacimiento": "2000-08-28",
-		"observacion": "Admin",
-		"dias_trabajo": 100,
-		"sueldo": 9500.0
-	}
+
+INSERT INTO empleado (nombre,apellido,telefono,direccion,fecha_nacimiento,observacion,dias_trabajo,sueldo) VALUES ("Leo","Messi","0321896547","Argentina","2000-08-28","Admin",100,6852);
+
+INSERT INTO empleado (nombre,apellido,telefono,direccion,fecha_nacimiento,observacion,dias_trabajo,sueldo) VALUES ("Mateo","Perez","0985412367","Cuenca","2000-08-28","Ventas",500,980);
+
+INSERT INTO empleado (nombre,apellido,telefono,direccion,fecha_nacimiento,observacion,dias_trabajo,sueldo) VALUES ("Silvia","Guzman","0789654123","Cuenca","2000-08-28","Conta",150,7500);	
+
 	
 	
-{
-		"nombre": "Mateo",
-		"apellido": "Perez",
-		"telefono": "0985412367",
-		"direccion": "Cuenca",
-		"fecha_nacimiento": "2000-08-28",
-		"observacion": "Ventas",
-		"dias_trabajo": 500,
-		"sueldo": 980.0
-	}
 	
-{
-		"nombre": "Silvia",
-		"apellido": "Guzman",
-		"telefono": "0789654123",
-		"direccion": "Cuenca",
-		"fecha_nacimiento": "2000-08-28",
-		"observacion": "Conta",
-		"dias_trabajo": 150,
-		"sueldo": 7500.0
-	}
+Link al enlace de pruebas en insomnia:
+https://drive.google.com/drive/folders/1gSKDm6xnVOJnFN9PqCiO6K62NnLFFzsI?usp=sharing
